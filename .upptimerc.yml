@@ -7,7 +7,7 @@ sites:
     url: https://lambtonpublichealth.ca
   - name: Minds Connected
     url: https://mindsconnected.ca
-  - name: Judith Normal Alix Foundation
+  - name: Judith & Norman Alix Foundation
     url: https://jnaf.ca
 
 status-website:
@@ -20,6 +20,8 @@ status-website:
   navbar:
     - title: Get Support
       href: https://tmrrwinc.com/support
+  js: "window.onload = function() { document.querySelector(a.logo).setAttribute('href', 'https://tmrrwinc.com'); }"
+  favicon: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d579f0038ebadc629dc04f_TMRRW-Creative-Favicon%20-32.png
 
 i18n:
   footer: This page is open source, powered by [Upptime](https://upptime.js.org)
