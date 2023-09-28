@@ -30,6 +30,12 @@ a.logo > img {
   overflow: visible;
 }
 
-/* a.logo {
-  pointer-events: none;
-} */
+nav li a {
+  border-bottom: 2px solid transparent;
+}
+
+nav li a:hover {
+  border-bottom: 2px solid var(--nav-current-border-bottom-color);
+  text-shadow: 0px 0px 20px var(--nav-current-border-bottom-color);
+  transition: all 0.3s ease-in-out 0.1s;
+}
