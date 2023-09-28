@@ -5,6 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Lambton Public Health
     url: https://lambtonpublichealth.ca
+  - name: Minds Connected
+    url: https://mindsconnected.ca
+  - name: Judith Normal Alix Foundation
+    url: https://jnaf.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,7 +19,7 @@ status-website:
   name: Website Uptime Monitoring
   introTitle: "**TMRRW Inc. Uptime Monitor** is a powerful tool that ensures the continuous availability and performance of our services"
   introMessage: With real-time data updates, you can stay informed about any issues or downtime that may occur. Our uptime monitor helps us strive for optimal service reliability.
-  themeUrl: https://drive.google.com/file/d/1xLhS4ic1UjtaVXsywjUNiOUYPy4o20S_/view?usp=sharing
+  themeUrl: https://raw.githubusercontent.com/TMRRWinc/status/master/assets/tmrrw.css
   navbar:
     - title: Status
       href: /
