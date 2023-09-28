@@ -15,12 +15,10 @@ status-website:
   cname: uptime.tmrrwinc.com
   logoUrl: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d03a0ddfe41e8104ca9c9b_footer-logo.svg
   name: " "
-  introTitle: "**TMRRW Inc. Uptime Monitor**"
+  introTitle: "**Uptime Monitor**"
   introMessage: A powerful tool that ensures the continuous availability and performance of our services. With real-time data updates, you can stay informed about any issues or downtime that may occur. Our uptime monitor helps us strive for optimal service reliability.
   navbar:
-    - title: Status
-      href: /
-    - title: Support
+    - title: Get Support
       href: https://tmrrwinc.com/support
 
 i18n:

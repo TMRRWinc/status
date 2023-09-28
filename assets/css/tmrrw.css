@@ -28,3 +28,7 @@
 a.logo > img {
   height: 25px !important;
 }
+
+a.logo {
+  pointer-events: none;
+}
