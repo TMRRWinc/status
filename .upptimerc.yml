@@ -11,15 +11,12 @@ sites:
     url: https://jnaf.ca
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  themeUrl: https://purrbot.site/assets/css/discord.css
   cname: uptime.tmrrwinc.com
-  # baseUrl: /your-repo-name
   logoUrl: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d03a0ddfe41e8104ca9c9b_footer-logo.svg
   name: Website Uptime Monitoring
   introTitle: "**TMRRW Inc. Uptime Monitor** is a powerful tool that ensures the continuous availability and performance of our services"
   introMessage: With real-time data updates, you can stay informed about any issues or downtime that may occur. Our uptime monitor helps us strive for optimal service reliability.
-  themeUrl: https://uptime.tmrrwinc.com/tmrrw.css
   navbar:
     - title: Status
       href: /
