@@ -11,7 +11,7 @@ sites:
     url: https://jnaf.ca
 
 status-website:
-  themeUrl: https://rawcdn.githack.com/TMRRWinc/status/c2bb1212584301155568e62f082d67ea3154f45b/assets/css/tmrrw.css
+  themeUrl: https://rawcdn.githack.com/TMRRWinc/status/8c47484745dfddee48c364a45242ecdb9d0e4476/assets/css/tmrrw.css
   cname: uptime.tmrrwinc.com
   logoUrl: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d03a0ddfe41e8104ca9c9b_footer-logo.svg
   name: " "
