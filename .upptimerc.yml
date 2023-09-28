@@ -11,7 +11,7 @@ sites:
     url: https://jnaf.ca
 
 status-website:
-  themeUrl: https://rawcdn.githack.com/TMRRWinc/status/8c47484745dfddee48c364a45242ecdb9d0e4476/assets/css/tmrrw.css
+  themeUrl: https://rawcdn.githack.com/TMRRWinc/status/a7aea887ecf348136f89eb5ee15ba478a2bdd95a/assets/css/tmrrw.css
   cname: uptime.tmrrwinc.com
   logoUrl: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d03a0ddfe41e8104ca9c9b_footer-logo.svg
   name: " "
@@ -20,7 +20,7 @@ status-website:
   navbar:
     - title: Get Support
       href: https://tmrrwinc.com/support
-  js: "window.onload = function() { document.querySelector(a.logo).setAttribute('href', 'https://tmrrwinc.com'); }"
+  js: "window.onload = function() { document.querySelector('a.logo').setAttribute('href', 'https://tmrrwinc.com'); }"
   favicon: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d579f0038ebadc629dc04f_TMRRW-Creative-Favicon%20-32.png
 
 i18n:
