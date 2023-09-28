@@ -16,5 +16,41 @@
     "timeMonth": 866,
     "timeYear": 866,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Minds Connected",
+    "url": "https://mindsconnected.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/mindsconnected.ca.ico",
+    "slug": "minds-connected",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Judith Normal Alix Foundation",
+    "url": "https://jnaf.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/jnaf.ca.ico",
+    "slug": "judith-normal-alix-foundation",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
