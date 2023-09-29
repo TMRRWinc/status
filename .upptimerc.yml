@@ -5,13 +5,13 @@ repo: status # The name of this repository
 sites:
   - name: Lambton Public Health
     url: https://lambtonpublichealth.ca
-  - name: Minds Connected
-    url: https://mindsconnected.ca
   - name: Judith & Norman Alix Foundation
     url: https://jnaf.ca
+  - name: Exmouth Group
+    url: https://exmouthgroup.ca
 
 status-website:
-  themeUrl: https://rawcdn.githack.com/TMRRWinc/status/a7aea887ecf348136f89eb5ee15ba478a2bdd95a/assets/css/tmrrw.css
+  themeUrl: https://rawcdn.githack.com/TMRRWinc/status/7a2d9c409d3a39f32ada253b1ded85992890ed2a/assets/css/tmrrw.css
   cname: uptime.tmrrwinc.com
   logoUrl: https://uploads-ssl.webflow.com/62d03a0ddfe41e0b5dca9c5b/62d03a0ddfe41e8104ca9c9b_footer-logo.svg
   name: " "
