@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lambtonpublichealth.ca.ico",
     "slug": "lambton-public-health",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.05%",
-    "uptimeYear": "95.60%",
+    "uptimeYear": "95.64%",
     "time": 1125,
     "timeDay": 411,
     "timeWeek": 2787,
@@ -27,7 +27,7 @@
     "url": "https://jnaf.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jnaf.ca.ico",
     "slug": "judith-and-norman-alix-foundation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 452,
     "timeMonth": 730,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "Exmouth Group",
