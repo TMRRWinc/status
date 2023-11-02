@@ -1,7 +1,7 @@
 url: https://lambtonpublichealth.ca
-status: down
-code: 503
-responseTime: 3350
-lastUpdated: 2023-11-02T15:54:49.730Z
+status: up
+code: 200
+responseTime: 486
+lastUpdated: 2023-11-02T16:02:13.812Z
 startTime: 2023-09-27T19:09:00.611Z
 generator: Upptime <https://github.com/upptime/upptime>
